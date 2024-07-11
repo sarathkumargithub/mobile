@@ -6,11 +6,20 @@
   #icons{
     height: 50px;
     width: 1345px;
+    background-color:rgb(132, 176, 189);
     
   }
   #info{
     height: 70px;
     width: 100px;
     margin: 10px;
+  }
+  #nav{
+    background-color:rgb(132, 176, 189);
+
+  }
+  a{
+    color: black;
+    
   }
 
