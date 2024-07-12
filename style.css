@@ -1,25 +1,38 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  background-color: rgb(157, 163, 162);
+}
+
 #img{
     height: 40px;
     width: 50px;
     border-radius: 10px;
   }
   #icons{
-    height: 50px;
+    height: 40px;
     width: 1345px;
     background-color:rgb(132, 176, 189);
     
   }
-  #info{
-    height: 70px;
-    width: 100px;
-    margin: 10px;
-  }
+  
   #nav{
     background-color:rgb(132, 176, 189);
-
   }
   a{
-    color: black;
+    color: ;
     
   }
+  #secount{
+    height: 250px;
+    width: 900px;
+  
+  }
+  a:hover{
+    background-color: chocolate;
+    border-radius: 20px;
+  }
+  img:hover{
+    color: aqua;
 
+  }
