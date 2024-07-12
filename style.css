@@ -11,13 +11,14 @@ body{
   }
   #icons{
     height: 40px;
-    width: 1345px;
+    width: 1545px;
     background-color:rgb(132, 176, 189);
     
   }
   
   #nav{
     background-color:rgb(132, 176, 189);
+    width: 1545px;
   }
   a{
     color: ;
