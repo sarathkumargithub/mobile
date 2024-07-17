@@ -30,7 +30,7 @@ body{
   
   }
   a:hover{
-    background-color: chocolate;
+    background-color: rgb(147, 193, 231);
     border-radius: 20px;
   }
   img:hover{
